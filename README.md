@@ -26,6 +26,34 @@ Source code is private and is not published in this repository.
 - MySQL / MariaDB
 - HTML, CSS, JavaScript
 
+## Detailed Project Notes (Internal Reference)
+
+For maintainers, the full project details are documented in the local project README:
+
+- `C:\xampp\htdocs\Clinic_Management_System\README.md`
+
+This public repository contains a sanitized summary only.
+
+## Project Details Summary
+
+Based on the internal README, this system covers:
+
+- Patient registration and profile management
+- Appointment scheduling and doctor-side appointment handling
+- Medical records, prescriptions, and patient history workflows
+- Billing and payment processing
+- Role-based access for admin, doctor, receptionist, and patient users
+- Admin monitoring, financial operations, and operational oversight
+
+### Core Modules
+
+- Authentication
+- Patient module
+- Doctor module
+- Admin module
+- Billing module
+- Appointment module
+
 ## Repository Structure
 
 - `docs/` - product and architecture notes
