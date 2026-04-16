@@ -1,0 +1,7 @@
+*
+!README.md
+!docs/
+!docs/**
+!demos/
+!demos/**
+!.gitignore
